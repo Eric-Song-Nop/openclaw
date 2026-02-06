@@ -347,6 +347,16 @@ importers:
         specifier: workspace:*
         version: link:../..
 
+  extensions/kook:
+    dependencies:
+      zod:
+        specifier: ^4.3.6
+        version: 4.3.6
+    devDependencies:
+      openclaw:
+        specifier: workspace:*
+        version: link:../..
+
   extensions/line:
     devDependencies:
       openclaw:

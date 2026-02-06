@@ -26,6 +26,11 @@
           - "src/imessage/**"
           - "extensions/imessage/**"
           - "docs/channels/imessage.md"
+"channel: kook":
+  - changed-files:
+      - any-glob-to-any-file:
+          - "extensions/kook/**"
+          - "docs/channels/kook.md"
 "channel: line":
   - changed-files:
       - any-glob-to-any-file:
